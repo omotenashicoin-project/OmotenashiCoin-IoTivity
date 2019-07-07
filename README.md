@@ -1,0 +1,2 @@
+# OmotenashiCoin-IoTivity
+OmotenashiCoin-IoTivity
